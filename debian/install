@@ -1,0 +1,3 @@
+bin                               usr
+kiwix-legacy.desktop              usr/share/applications
+kiwix-legacy                      usr/share

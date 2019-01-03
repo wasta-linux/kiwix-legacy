@@ -1,0 +1,19 @@
+Source: kiwix-legacy
+Section: education
+Priority: optional
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.5
+Homepage: https://github.com/wasta-linux/kiwix-legacy
+
+Package: kiwix-legacy
+Architecture: all
+Depends: jarwrapper, ${shlibs:Depends}, ${misc:Depends}
+Description: Wikipedia offline & more
+ Kiwix allows you to read and search through offline content
+ as they were online on the Web. Similar to a browser, Kiwix works with
+ the highly compressed ZIM file format.
+ .
+ http://www.kiwix.org
+ .
+ kiwix-legacy is a .deb package of the legacy kiwix-xulrunner 0.9.x series binary

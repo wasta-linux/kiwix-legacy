@@ -1,0 +1,11 @@
+kiwix-legacy: arch-dependent-file-in-usr-share
+kiwix-legacy: arch-independent-package-contains-binary-or-object
+kiwix-legacy: binary-or-shlib-defines-rpath
+kiwix-legacy: binary-without-manpage
+kiwix-legacy: embedded-library
+kiwix-legacy: executable-jar-without-main-class
+kiwix-legacy: executable-not-elf-or-script
+kiwix-legacy: missing-dependency-on-libc
+kiwix-legacy: shared-lib-without-dependency-information
+kiwix-legacy: statically-linked-binary
+kiwix-legacy: unstripped-binary-or-object

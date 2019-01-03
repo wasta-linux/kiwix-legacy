@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Kiwix
+Comment=Wikipedia / offline encyclopedia & more
+Exec=kiwix-legacy
+Terminal=false
+Type=Application
+Icon=/usr/share/kiwix-legacy/kiwix-linux/chrome/icons/default/main.png
+Categories=Application;Education;
