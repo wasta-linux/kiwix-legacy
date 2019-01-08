@@ -8,4 +8,3 @@ kiwix-legacy: executable-not-elf-or-script
 kiwix-legacy: missing-dependency-on-libc
 kiwix-legacy: shared-lib-without-dependency-information
 kiwix-legacy: statically-linked-binary
-kiwix-legacy: unstripped-binary-or-object
